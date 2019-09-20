@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/sf.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: black;
+}
+
+.container {
+    position: relative;
+    top: 400px;
+    width: 40%;
+    height: 300px;
+    margin: 0px auto;
+    /* background-color: blue; */
+}
+
+.container p{
+    position: relative;
+    top: 35%;
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+    color: #dddd33;
+}
